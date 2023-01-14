@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.para {
+  font-size: 15px;
+  font-family: roboto;
+  margin-right: 40px;
+}
+.button {
+  border: 1px solid red;
+  border-radius: 5px;
+  color: red;
+  width: 80px;
+  height: 25px;
+  background-color: white;
+}
